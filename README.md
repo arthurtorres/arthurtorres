@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ### :star: Skills I know
 
-| | | | | | | | | | 
-| :------: | :-----: | :-----: | :------: | :-----: | :-----: | :------: | :-----: | :-----: |
-|<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">|<img " title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">|<img alt="Git" title="Git" 
+| |
+| :------:
+|<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">|<img title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">|<img alt="Git" title="Git" 
 
 
 ### :pencil: Skills I'm learning
