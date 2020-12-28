@@ -1,18 +1,4 @@
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
 
 <h1> Hey! 👋 I'm Arthur!</h1>
 
@@ -25,17 +11,16 @@ Here are some ideas to get you started:
 
 
 ### :star: Skills I know
-
-| | | | | | | | | | 
-| :------: | :-----: | :-----: | :------: | :-----: | :-----: | :------: | :-----: | :-----: 
-|<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24"> |<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">|<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">|
+| | | 
+| - | -   
+|<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24"> |<img alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="24">|
 
 
 ### :pencil: Skills I'm learning
 
-| | | | | |
-| :------: | :-----: | :-----: | :-----: | :-----: |
-|<img alt="React" title="React" src="https://user-images.githubusercontent.com/59986562/88585675-c1177d00-d029-11ea-9aae-812458cdd582.png" height="24">|<img alt="ReactNative" title="ReactNative" src="https://user-images.githubusercontent.com/9818768/91670281-49d67c80-eaf2-11ea-99e0-0aa8aa83e9de.jpg" height="24">|<img alt="Angular" title="Angular" src="https://user-images.githubusercontent.com/9818768/91670295-738fa380-eaf2-11ea-840d-30b62be893aa.png" height="24">|<img alt="MongoDB" title="MongoDB" src="https://user-images.githubusercontent.com/9818768/91670436-e2b9c780-eaf3-11ea-9417-884292bd0a20.jpg" height="24">|<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">
+| | 
+| -
+|<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">|
 
 
 
