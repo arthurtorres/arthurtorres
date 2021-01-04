@@ -18,9 +18,9 @@
 
 ### :pencil: Skills I'm learning
 
-| | 
-| -
-|<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">|
+| | |
+| - | -
+|<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">|<img alt="MySQL" title="MySQL" src="https://user-images.githubusercontent.com/59986562/88585130-1010e280-d029-11ea-8a33-cb173b89dd9d.png" height="24">
 
 
 
