@@ -8,18 +8,35 @@
   <a href="https://www.linkedin.com/in/arthurbaiao/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h3> Main Projects</h3>
 
-### :star: Skills I know
-| | | |
-| - | - | -
-|<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24"> |<img alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="24">|<img alt="MySQL" title="MySQL" src="https://user-images.githubusercontent.com/59986562/88585130-1010e280-d029-11ea-8a33-cb173b89dd9d.png" height="24">
+[analise_netflix](https://github.com/arthurtorres/analise_netflix) : Analisé de series da netflix baseada em um coleção de dados da Netflix disponibilizados no Kaggle.
+
+  Nesse projeto foi utilizado python como principal tecnolgia utilizando jupyter notebook para organização.
+                  
+         
+  Nesse projeto existe uma preparação de dados, uma análise de dados, e um sistema de recomendação utilziando 
+       
+                
+  similiraridade de cosseno.
+           </p>
+       
+                  
+[analise_INEP](https://github.com/arthurtorres/analise_INEP)  :  Análise de dados da educação disponibilziados pelo INEP focada em uma análise de impacto de cotas e de representação  de minorias no ensino superior.
 
 
-### :pencil: Skills I'm learning
-
-| | |
-| - | -
-|<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">
+Nesse projeto foi utilizado python como principal tecnolgia utilizando jupyter notebook para organização.
 
 
+Nesse projeto existe uma coleta de dados, um armazenamento deles no google drive pessoal e  uma análise dos mesmos 
 
+
+[scrappy_cloudrun](https://github.com/arthurtorres/scrappy_cloudrun)  : Coleta de informação de sites de noticias diversos( Prensa, Google News, The Hacker News), disponiblizados atraves de uma chamada POST, e armazenadas na nuvem(GCP) .
+                 
+                 
+Nesse projeto foi utilizado python como principal linguagem de programação, e cloud Run para rodar o serviço serveless. Docker também                       foi utilizado. 
+
+
+Esse projeto coleta os dados atraves de um contaienr Docker, criado utilizando o DockerFile explciito e é mantido rodando quando                           efetuada uma chamada, atraves do cloud run.
+
+                  
