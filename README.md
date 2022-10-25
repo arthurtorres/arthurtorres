@@ -10,17 +10,6 @@
 
 <h3> Main Projects</h3>
 
-[analise_netflix](https://github.com/arthurtorres/analise_netflix) : Analisé de series da netflix baseada em um coleção de dados da Netflix disponibilizados no Kaggle.
-
-  Nesse projeto foi utilizado python como principal tecnolgia utilizando jupyter notebook para organização.
-                  
-         
-  Nesse projeto existe uma preparação de dados, uma análise de dados, e um sistema de recomendação utilziando 
-       
-                
-  similiraridade de cosseno.
-           </p>
-       
                   
 [analise_INEP](https://github.com/arthurtorres/analise_INEP)  :  Análise de dados da educação disponibilziados pelo INEP focada em uma análise de impacto de cotas e de representação  de minorias no ensino superior.
 
@@ -39,4 +28,16 @@ Nesse projeto foi utilizado python como principal linguagem de programação, e 
 
 Esse projeto coleta os dados atraves de um contaienr Docker, criado utilizando o DockerFile explciito e é mantido rodando quando                           efetuada uma chamada, atraves do cloud run.
 
+
+
+[analise_netflix](https://github.com/arthurtorres/analise_netflix) : 
+
+Given a dataset avaiable on Kaggle with some information about netflix movies and tv shows, make a analysys of it and give some insights from it. Also make a simple reccomedation system using cosine similarity. The analysys are on portuguese.
+
+
+In this project the main tools needed are jupyter notebook and python
+                  
+The main phases of this project are : Cleaning the data , Exploratory Data Analys(EDA) and creation of a reccomendation system.
+
+       
                   
