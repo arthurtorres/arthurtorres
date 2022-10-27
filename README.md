@@ -10,7 +10,20 @@
 
 <h3> Main Projects</h3>
 
-                  
+
+
+[scrappy_cloudrun](https://github.com/arthurtorres/scrappy_cloudrun)  : Scrappy of some news websites(Prensa,The Hacker News) and make them acessible by a POST call on a know endpoint and store the result on GCP.
+
+                 
+In this project the main tools used are python,Docker and the Cloud Run Service on GCP.
+
+
+The main steps of this project are :  Scrappy the data, create a DockerFile to be used by Cloud run, Run the service on Cloud Run and wait for calls on endpoint.
+
+
+The info to run the code in GCP are explained on the ReadMe.md file
+
+
 [analise_INEP](https://github.com/arthurtorres/analise_INEP)  : Collect data of high-level education from INEP and make a analysys of it. The main focus of the analys is the focus of the Quotas ACT and its impact on the participation of  social minorities on high-level education.
 
 
@@ -28,16 +41,6 @@ In this project the main tools used are jupyter notebook and python
                   
 The main phases of this project are : Cleaning the data , Exploratory Data Analys(EDA) and creation of a reccomendation system.
 
-       
-
-[scrappy_cloudrun](https://github.com/arthurtorres/scrappy_cloudrun)  : Coleta de informação de sites de noticias diversos( Prensa, Google News, The Hacker News), disponiblizados atraves de uma chamada POST, e armazenadas na nuvem(GCP) .
-                 
-                 
-Nesse projeto foi utilizado python como principal linguagem de programação, e cloud Run para rodar o serviço serveless. Docker também foi utilizado. 
-
-
-Esse projeto coleta os dados atraves de um contaienr Docker, criado utilizando o DockerFile explciito e é mantido rodando quando                           efetuada uma chamada, atraves do cloud run.
-
-
+      
 
                   
